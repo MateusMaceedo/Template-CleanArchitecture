@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xSWD4qKP2Ej2ewYmqrmVhfddGoMRB+knfKaVR56NaBOWAgBUYNoRNb3xkOernU+4jmUQ/e2jtAiiazmwHGCDrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateu\\source\\repos\\Template.CleanArchitecture\\Template.CleanArchitecture\\Template.CleanArchitecture.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
